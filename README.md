@@ -29,3 +29,6 @@ Create a 4th column (Equality class), classifying the equality score in those 3 
 - Fair (+-10)
 - Unfair (<-10 AND >10)
 - Highly Discriminative (<-20 AND >20)
+
+#### Command in Excel Cell
+=IF(ABS(C2)<=10,"Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
