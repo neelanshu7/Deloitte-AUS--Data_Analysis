@@ -20,7 +20,7 @@ IF[Status]="unhealthy" THEN 10 ELSE 0 END
 ### Software - Excel 
 
 ### Objective 
-To analyze client data and create a dashboard using Tableau.
+To analyze client data and categorize it regarding apy gap
 
 ### Problem Statement
 An excel file containing 3 columns:
