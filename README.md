@@ -13,3 +13,19 @@ Using tableau create dashboard and analyze insight from the user data (JSON file
 
 #### Downtime Condition
 IF[Status]="unhealthy" THEN 10 ELSE 0 END
+
+---
+## Task-2
+---
+### Software - Excel 
+
+### Objective 
+To analyze client data and create a dashboard using Tableau.
+
+### Problem Statement
+An excel file containing 3 columns:
+> Factory Job Role Equality Score (integer; ranging between -100 and +100; 0 is ideal)
+> Create a 4th column (Equality class), classifying the equality score in those 3 types:
+  > Fair (+-10)
+  > Unfair (<-10 AND >10)
+  > Highly Discriminative (<-20 AND >20)
