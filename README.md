@@ -1,6 +1,8 @@
 # Deloitte (AUS) Data Analysis
 Data Analysis Virtual Intership and Job Simulation by Deloitte Austrilia on Forage. 
 
+## Certificate
+![Certificate](image.png)
 ## Task-1
 ---
 ### Software - Tableau 
